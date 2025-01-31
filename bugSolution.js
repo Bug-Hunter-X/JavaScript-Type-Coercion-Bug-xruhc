@@ -1,0 +1,1 @@
+function foo(a,b){if(typeof a === 'number' && typeof b === 'number'){return a+b;}else{return 'Invalid input';}}foo(1,2);foo(1,'2');
